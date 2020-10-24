@@ -1,11 +1,9 @@
-###Stats in R: Intro do modeling 
+###Stats in R: Intro to modeling 
 
 #-------------------------------------------------------------------------------
 #Working question: which of the variables affect the air quality?
 #-------------------------------------------------------------------------------
 
-getwd()
-setwd("C:/Users/rudbl/Downloads/Material de estudo/practicing-R")
 library(ggplot2)
 library(Ecdat)
 data("Airq")
